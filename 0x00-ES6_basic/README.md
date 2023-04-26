@@ -1,1 +1,2 @@
- backend Javascript by Umar Faruq
+0x00. ES6 Basics
+Author: David Adejumo
